@@ -1,0 +1,67 @@
+.linkar{
+
+	border: 2px solid #84694a;
+	background-color: #be996e;
+	width: 1000px;
+	height: 75px;
+	margin-top: auto;
+	margin: 0 auto;
+}
+.linka_lista{
+	margin: 0 auto;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	margin-bottom: auto;
+	margin-top: 25px;
+}
+.link_lista{
+	text-decoration: none;
+	color: white;
+	font-size: 30px;
+	font-family: sans-serif;
+	width: 100px;
+	height: 100px;
+	margin-right: 20px;
+	margin-left: auto;
+	margin-top: 20px;
+	margin-bottom: auto;
+	text-align: center;
+}
+.kropp{
+	border: 2px solid #84694a;
+	background-color: #be996e;
+	width: 1000px;
+	height: 500px;
+	margin: 0 auto;
+}
+.portfolio_bilder{
+	width: 400px;
+	height: 280px;
+	border: 2px solid black;
+}
+.content{
+	border: 2px solid #84694a;
+	background-color: white;
+	width: 900px;
+	height: 425px;
+	margin: 0 auto;
+	margin-top: 10px;
+	overflow: auto;
+}
+.inuti_content{
+	width: 850px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin: 0 auto;
+}
+#photo{
+	width: 150px;
+	height: 125px;
+}
+body{
+	background-color: #8f714f;
+}
+h1{
+	text-align: center;
+}
